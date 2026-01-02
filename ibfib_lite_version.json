@@ -1,0 +1,16 @@
+{
+  "version": "2.1.0.0",
+  "notes": "BadBuddha Initial Balance Fibonacci Extensions - Lite (Free)",
+  "downloadUrl": "https://github.com/",
+  "published": "2026-01-02",
+  "author": "BadBuddhaCustoms",
+  "breakingChanges": false,
+  "changelog": [
+    "Bugfixes",
+    "Initial release of Lite (Free) version",
+    "Fixed Fibonacci levels: 0.5, 1.0, 1.618",
+    "Initial Balance range visualization",
+    "Session-based or calendar-based anchoring",
+    "Full color and style customization"
+  ]
+}
